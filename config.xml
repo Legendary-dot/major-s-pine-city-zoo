@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/nd/widgets"
+xmlns:gap       = "htt://phonegap.com/ns/1.0"
+id              = "com.itvarsity.major's-pine-city-zoo"
+versionCode     = "10"
+version         = "1.0.0" >
+
+<name>Major's Pine City Zoo</name>
+
+<description>
+Learn about the animals in the zoo.
+</description>
+
+<author href="https://itvarsity.co.za" email="info@itvarsity.co.za">
+IT Varsity
+</author>
+
+</widget>
